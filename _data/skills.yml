@@ -8,10 +8,12 @@
   description: Android Studio
 
 # 
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Structures & Databases
+  description: MySQL
   
-  languages:
-  perl: Elite
-  python: Elite
-  pascal: Lame
+- skill: Programming languages
+  description: C, JavaScript, Python, PHP, Java, HTML, CSS
+  
+- skill: Tools
+  description: Adobe Photoshop, GIMP, Figma, Visual Studio Code
+
