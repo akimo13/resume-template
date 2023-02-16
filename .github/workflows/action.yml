@@ -12,9 +12,9 @@ jobs:
       - name: Gatsby Publish
         uses: enriikke/gatsby-gh-pages-action@v2.1.1
         with:
-          access-token: ${{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}}
           deploy-branch: gh-pages
           gatsby-args: --prefix-paths
+          access-token: ${{ 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 }}
       - name: Webpage to PDF
         uses: misaelnieto/web_to_pdf_action@master
         with:
