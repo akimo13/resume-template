@@ -3,11 +3,9 @@
 - skill: CMS
   description: WordPress
 
-# 
 - skill:  IDE
   description: Android Studio
-
-# 
+  
 - skill: Structures & Databases
   description: MySQL
   
