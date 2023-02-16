@@ -1,7 +1,12 @@
 # Languages
+# 
 - language: Greek
   description: Native fluency
+
+# 
 - language: English
   description: Proficiency level - ECPE
+
+# 
 - language: Spanish
   description: Elementary level
