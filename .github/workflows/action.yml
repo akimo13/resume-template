@@ -14,7 +14,7 @@ jobs:
         with:
           deploy-branch: gh-pages
           gatsby-args: --prefix-paths
-          access-token: ${{ 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 }}
+          access-token: ${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}
       - name: Webpage to PDF
         uses: misaelnieto/web_to_pdf_action@master
         with:
