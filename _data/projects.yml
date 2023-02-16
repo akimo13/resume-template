@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# charterpartydisputes.com
+- project: Charter Party Disputes
+  role: Developer & Designer
+  duration: August, 2021 &mdash; Present
+  url: "https://charterpartydisputes.com/"
+  description: Charter party disputes is a blog about shipping and maritime law issues.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# elizabeth.gr
+- project: Elizabeth Bridal
+  role: Developer & Designer
+  duration: 2018 &mdash; Present
+  url: "https://elizabeth.gr/"
+  description: A website to show and promote the bridal dresses of Elizabeth Bridal.
